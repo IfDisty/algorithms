@@ -55,3 +55,35 @@ console.log(binarySearch(sortedArray, 5)); // 2 (индекс элемента)
     Чистота кода: Соответствие стандартам JavaScript (ES6+)
 
     Оптимизация: Все реализации оптимизированы для читаемости и производительности
+
+
+https://github.com/user-attachments/assets/4d63eff9-0323-41a7-b75d-2328d609645c
+
+
+
+https://github.com/user-attachments/assets/6ed5ce58-3cdf-4f1e-b996-0c9680041b8f
+
+
+
+https://github.com/user-attachments/assets/08deefe2-aeb6-46fe-9a79-eb22d02c8cc9
+
+
+
+https://github.com/user-attachments/assets/9e3d27f0-7790-434a-b6d9-726a52abb6dd
+
+
+
+https://github.com/user-attachments/assets/05a7f99d-fad1-4573-befe-aebb4142868d
+
+
+
+https://github.com/user-attachments/assets/6ebd897b-80bd-44b8-a275-8215c45cc468
+
+
+
+https://github.com/user-attachments/assets/d593ca55-a4dd-4c77-80e2-15685471b004
+
+
+
+https://github.com/user-attachments/assets/8a0cd1a4-4bf5-4187-99a9-4430bb602b8b
+
