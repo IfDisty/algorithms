@@ -57,10 +57,6 @@ console.log(binarySearch(sortedArray, 5)); // 2 (индекс элемента)
     Оптимизация: Все реализации оптимизированы для читаемости и производительности
 
 
-https://github.com/user-attachments/assets/4d63eff9-0323-41a7-b75d-2328d609645c
-
-
-
 https://github.com/user-attachments/assets/6ed5ce58-3cdf-4f1e-b996-0c9680041b8f
 
 
