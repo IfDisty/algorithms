@@ -33,8 +33,8 @@ graph TD
 
 🚀 Использование
 
-    Клонируйте репозиторий:
-git clone https://github.com/your-username/algorithms.git
+      Клонируйте репозиторий:
+    git clone https://github.com/your-username/algorithms.git
 
     Запустите любой алгоритм:
 node alg4.js
